@@ -1,0 +1,31 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	margin: 0 auto;
+	background-color: skyblue;
+	width: 800px;
+	height: 650px;
+}
+.clouds, .water, .wooden-ship, .world{
+	position: relative;
+}
+.clouds{
+	top: 0px;
+	width: 400px;
+	left: 350px;
+
+}
+.wooden-ship{
+	left: 20px;
+	width: 170px;
+	bottom: 200px;
+}
+.water{
+	bottom: 215px;
+
+}
+.world{
+	bottom: 0px;
+}
